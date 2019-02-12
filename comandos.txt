@@ -1,0 +1,11 @@
+Inicia el entorno virtual:
+
+command-line
+C:\Users\Name\djangogirls> myvenv\Scripts\activate
+
+
+Iniciar el servidor:
+Debes estar en el directorio que contiene el archivo manage.py (en la carpeta djangogirls). En la consola, podemos iniciar el servidor web ejecutando python manage.py runserver:
+
+command-line
+(myvenv) ~/djangogirls$ python manage.py runserver
